@@ -1,0 +1,17 @@
+li {
+    list-style: none;
+    margin-right: 10px;
+}
+li a{
+    text-decoration: none;
+    color: tomato;
+    font-weight: 800;
+    padding: 2px 5px;
+}
+nav ul{
+    display: flex;
+}
+nav ul li a:hover{
+    background-color: azure;
+    
+}
